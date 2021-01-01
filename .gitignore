@@ -1,0 +1,4 @@
+.vscode/
+.django-jwt/
+__pycache__
+
